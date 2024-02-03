@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460203734883",
+    "project_id": "clean-architecture-63906",
+    "storage_bucket": "clean-architecture-63906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460203734883:android:35be2fa9e45eb45f694556",
+        "android_client_info": {
+          "package_name": "com.example.flutter_clean_architecture_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkIrO1D6WH9_ri249XuaLb0l3r1TBgSJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
